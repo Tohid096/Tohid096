@@ -1,6 +1,6 @@
 <a href="https://komarev.com/ghpvc/?username=alsiam">
   <img align="right" src="https://komarev.com/ghpvc/?username=tohid096&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+</a><br>
 - 👋 Hi, I’m @Tohid096
 - 👀 I’m interested in ...Web/DataScience/AI
 - 🌱 I’m currently learning ...Web/Data Analysis 
